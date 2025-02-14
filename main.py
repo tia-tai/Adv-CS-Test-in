@@ -1,9 +1,5 @@
-from datetime import date
 import customtkinter
 import json
-
-from cv2 import add
-from sympy import Li
 
 customtkinter.set_appearance_mode("System")
 
